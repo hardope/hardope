@@ -1,7 +1,7 @@
 # I am Opeoluwa Adeyeri
-### I'm an enthusiastic computer programmer, back-end web-developer and electrical Technician.
-##### My area of interest is Web development and Artificial Intelligence
-I am a student learning several programming languages, I'm alrady fluent in these languages:
+### I'm a student, an enthusiastic computer programmer, back-end web-developer and electrical Technician. <br>
+My area of interest is Web development and Artificial Intelligence<br>
+I'm alrady fluent in these languages:
 * Python <img src="https://user-images.githubusercontent.com/76790341/187140476-61664fc5-1562-48a3-a5a5-f2f6d8ac917f.png" width="20">
 * C language <img src="https://user-images.githubusercontent.com/76790341/187141646-76dd8b84-1e63-4b5e-b61d-30040f2573cb.png" width="20">
 * HTML<img src="https://user-images.githubusercontent.com/76790341/187141391-bfad1a42-3cc2-4edd-903b-6d362ee63fc2.png" width="20">
