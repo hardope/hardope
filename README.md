@@ -1,5 +1,5 @@
-# I am Opeoluwa Adeyeri, 
-### I'm an enthusiastic computer programmer, back-end web-developer and electrical Technician
+# I am Opeoluwa Adeyeri
+### I'm an enthusiastic computer programmer, back-end web-developer and electrical Technician.
 I have interest in Web development and Artificial Intelligence
 I am a student learning several programming languages, I'm alrady fluent in these languages:
 * Python <img src="https://user-images.githubusercontent.com/76790341/187140476-61664fc5-1562-48a3-a5a5-f2f6d8ac917f.png" width="20">
