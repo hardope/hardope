@@ -12,3 +12,5 @@ I'm already fluent in these languages:
 * Django <img src="https://user-images.githubusercontent.com/76790341/187143187-c352b47e-8e56-496c-9a8a-fc3b665c20fc.png" width="20">
 
 #### Contact: adeyeriopeoluwa05@gmail.com +234(0)9075963886
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardope)](https://github.com/anuraghazra/github-readme-stats)
