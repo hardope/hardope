@@ -13,5 +13,3 @@ I'm already fluent in these languages:
 
 #### Contact: adeyeriopeoluwa05@gmail.com +234(0)9075963886
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardope)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hardope)](https://git.io/streak-stats)
