@@ -10,6 +10,7 @@ I'm already fluent in these languages:
 * SQL <img src="https://user-images.githubusercontent.com/76790341/187142691-cf4ccbbc-e49b-410f-880a-026e60e91c5f.jpg" width="40">
 * Flask <img src="https://user-images.githubusercontent.com/76790341/187142840-1acfcea2-a215-4f56-b11e-216fc8aa885b.png" width="40">
 * Django <img src="https://user-images.githubusercontent.com/76790341/187143187-c352b47e-8e56-496c-9a8a-fc3b665c20fc.png" width="70">
+* Shell
 
 #### Contact: adeyeriopeoluwa05@gmail.com +234(0)9075963886
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardope)](https://github.com/anuraghazra/github-readme-stats)
