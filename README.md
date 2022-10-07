@@ -16,5 +16,5 @@ I'm fluent in these languages and Systems:
 
 #### Contact: adeyeriopeoluwa05@gmail.com +234(0)9075963886
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardope)](https://github.com/anuraghazra/github-readme-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hardope)](https://git.io/streak-stats)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hardope&show_icons=true&locale=en&layout=compact" alt="kimjayden" /></p>
