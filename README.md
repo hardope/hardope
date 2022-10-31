@@ -15,6 +15,6 @@ I'm fluent in these languages and Systems:
 * Ubuntu <img src="https://user-images.githubusercontent.com/76790341/190482899-5367a114-82bb-48e4-987e-d371df18d545.png" width="40">
 
 #### Contact: adeyeriopeoluwa05@gmail.com +234(0)9075963886
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardope)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardope&show_icons=true&theme=transparent)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hardope)](https://git.io/streak-stats)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hardope&show_icons=true&locale=en&layout=compact" alt="kimjayden" /></p>
