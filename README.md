@@ -11,6 +11,7 @@ I'm fluent in these languages and Systems:
 * Flask <img src="https://user-images.githubusercontent.com/76790341/187142840-1acfcea2-a215-4f56-b11e-216fc8aa885b.png" width="40">
 * Django <img src="https://user-images.githubusercontent.com/76790341/187143187-c352b47e-8e56-496c-9a8a-fc3b665c20fc.png" width="70">
 * BASH Script <img src="https://user-images.githubusercontent.com/76790341/190482427-414de214-10ea-4b75-9949-9d2e51c50b09.png" width="40">
+* BATCH script
 * Git <img src="https://user-images.githubusercontent.com/76790341/190482739-92322527-0bc0-4e1b-a38a-145ba2cbcff2.png" width="40">
 * Ubuntu <img src="https://user-images.githubusercontent.com/76790341/190482899-5367a114-82bb-48e4-987e-d371df18d545.png" width="40">
 
