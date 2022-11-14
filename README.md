@@ -1,5 +1,5 @@
 # I am Opeoluwa Adeyeri
-### I'm a student, an enthusiastic computer programmer, back-end web-developer and electrical Technician. <br>
+### I'm a student, an enthusiastic computer programmer, Full stack developer and electrical Technician. <br>
 My areas of interest are Web development and Artificial Intelligence<br>
 I'm fluent in these languages and Systems:
 * Python <img src="https://user-images.githubusercontent.com/76790341/187140476-61664fc5-1562-48a3-a5a5-f2f6d8ac917f.png" width="25">
