@@ -22,3 +22,10 @@ I'm fluent in these languages, paradigms and Systems:<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardope&show_icons=true&theme=light&count_private=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hardope)](https://git.io/streak-stats)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hardope&show_icons=true&locale=en&layout=compact" alt="kimjayden" /></p>
+
+```python
+def print_hello(name):
+    print(f"Hello, {name}")
+
+
+```
