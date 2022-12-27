@@ -3,7 +3,7 @@
 My areas of interest are Web development, Software Development and Artificial Intelligence<br>
 Currently I'm developing a webapplication, [A Social Media Platform Including an Instant Messenger](https://hardope.pythonanywhere.com "Click Chat")<br>
 I'm fluent in these languages, paradigms and Systems:<br>
-| Languages | Use |
+| Languages | My Use |
 | --- | --- |
 | Python <img src="https://user-images.githubusercontent.com/76790341/187140476-61664fc5-1562-48a3-a5a5-f2f6d8ac917f.png" width="25"> | For Back-end and Web development |
 | C language <img src="https://user-images.githubusercontent.com/76790341/187141646-76dd8b84-1e63-4b5e-b61d-30040f2573cb.png" width="30"> | Back-end and Low-Level Programming |
