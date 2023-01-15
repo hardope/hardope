@@ -21,5 +21,4 @@ I'm fluent in these languages, paradigms and Systems:<br>
 #### Contact: adeyeriopeoluwa05@gmail.com +234(0)9075963886
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hardope)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardope&show_icons=true&theme=light&count_private=true)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hardope&show_icons=true&locale=en&layout=compact" alt="kimjayden" /></p>
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/hardope/repos?time_range=one_year&include_private=True&loc_metric=changed&group=private)](https://githubtrends.io)
