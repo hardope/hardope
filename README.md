@@ -21,4 +21,3 @@ I'm fluent in these languages, paradigms and Systems:<br>
 #### Contact: adeyeriopeoluwa05@gmail.com +234(0)9075963886
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hardope)](https://git.io/streak-stats)
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/hardope/repos?time_range=one_year&include_private=True&loc_metric=changed&group=private)](https://githubtrends.io)
