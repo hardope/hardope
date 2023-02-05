@@ -1,7 +1,7 @@
 # I am Opeoluwa Adeyeri
 ### I'm a student, an enthusiastic computer programmer and Full stack developer.<br>
-My areas of interest are Web development, Software Development and Artificial Intelligence<br>
-Currently I'm developing a webapplication, [A Social Media Platform Including an Instant Messenger](https://hardope.pythonanywhere.com "Click Chat")<br>
+My areas of interest are Web development, Software Engineering and Artificial Intelligence<br>
+Currently I'm developing a [Social Media Platform & Instant Messenger](https://hardope.pythonanywhere.com "Click Chat")<br>
 I'm fluent in these languages, paradigms and Systems:<br>
 | Languages | My Use |
 | --- | --- |
@@ -21,18 +21,10 @@ I'm fluent in these languages, paradigms and Systems:<br>
 #### Contact: adeyeriopeoluwa05@gmail.com +234(0)9075963886
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hardope)](https://git.io/streak-stats)
-<div align="center">
-    <!--img height="180em" src="profile-3d-contrib/pie_lang_only.svg"-->
-    <!--img height="200em" src="profile-3d-contrib/radar_contrib_only.svg"-->
-    <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hardope&theme=github"/>
-    <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hardope"/>
-</div>
-<div align="center">
-    <!--img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hardope"-->
-</div>
-<!--div align="center"-->
-    <!--img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardopeA&langs_count=10&layout=compact&hide=c%2B%2B,CMake,C"-->
-<!--/div-->
-<div align="center">
-    <!--img width="500em" src="https://streak-stats.demolab.com/?user=hardope&currStreakNum=000000&fire=orange&sideLabels=000date_format=[Y.]n.j)"-->
-</div>
+<!--img height="180em" src="profile-3d-contrib/pie_lang_only.svg"-->
+<!--img height="200em" src="profile-3d-contrib/radar_contrib_only.svg"-->
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hardope&theme=github"/>
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hardope"/>
+<!--img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hardope"-->
+<!--img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardopeA&langs_count=10&layout=compact&hide=c%2B%2B,CMake,C"-->
+<!--img width="500em" src="https://streak-stats.demolab.com/?user=hardope&currStreakNum=000000&fire=orange&sideLabels=000date_format=[Y.]n.j)"-->
