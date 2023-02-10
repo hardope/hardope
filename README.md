@@ -18,7 +18,7 @@ I'm fluent in these languages, paradigms and Systems:<br>
 | Git <img src="https://user-images.githubusercontent.com/76790341/190482739-92322527-0bc0-4e1b-a38a-145ba2cbcff2.png" width="40"> | Version control |
 | Ubuntu <img src="https://user-images.githubusercontent.com/76790341/190482899-5367a114-82bb-48e4-987e-d371df18d545.png" width="40"> | Functional open source  OS |
 
-#### Contact: adeyeriopeoluwa05@gmail.com +234(0)9075963886
+#### Contact: E-mail: adeyeriopeoluwa05@gmail.com Phone: +234(0)9075963886
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hardope)](https://git.io/streak-stats)
 <!--img height="180em" src="profile-3d-contrib/pie_lang_only.svg"-->
