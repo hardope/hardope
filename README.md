@@ -1,5 +1,5 @@
 # I am Opeoluwa Adeyeri
-### I'm a student, an enthusiastic computer programmer and Full stack developer.<br>
+### I'm a student, an enthusiastic Software Engineer and Full stack web developer.<br>
 My areas of interest are Web development, Software Engineering and Artificial Intelligence<br>
 Currently I'm developing a [Social Media Platform & Instant Messenger](https://hardope.pythonanywhere.com "Click Chat")<br>
 I'm fluent in these languages, paradigms and Systems:<br>
