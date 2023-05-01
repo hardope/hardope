@@ -1,7 +1,11 @@
 # Opeoluwa Adeyeri
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=+Software+Engineer;Full-Stack+Web+Developer!;Student)](https://git.io/typing-svg)
 My areas of interest are Web development, Software Engineering and Artificial Intelligence<br>
+
 Currently I'm developing a [Social Media Platform & Instant Messenger](https://hardope.pythonanywhere.com "Click Chat")<br>
+
+---
+### Tools & Languages
 
 <p align="center">
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"  height="40" style="vertical-align:top; margin:4px">
@@ -23,9 +27,13 @@ Currently I'm developing a [Social Media Platform & Instant Messenger](https://h
 <img src="https://user-images.githubusercontent.com/76790341/187142409-fa9b3fc9-8e08-4870-b4d9-a630a3505339.png" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-#### Contact Me: <br>
+---
+
+### Contact Me: <br>
 E-mail: adeyeriopeoluwa05@gmail.com<br>
 Phone: +234(0)9075963886
+
+---
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hardope)](https://git.io/streak-stats)
 ![Gift56's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardope&count_private=true)
