@@ -23,10 +23,4 @@ E-mail: adeyeriopeoluwa05@gmail.com<br>
 Phone: +234(0)9075963886
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hardope)](https://git.io/streak-stats)
-<!--img height="180em" src="profile-3d-contrib/pie_lang_only.svg"-->
-<!--img height="200em" src="profile-3d-contrib/radar_contrib_only.svg"-->
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hardope&theme=github"/>
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hardope"/>
-<!--img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hardope"-->
-<!--img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardopeA&langs_count=10&layout=compact&hide=c%2B%2B,CMake,C"-->
-<!--img width="500em" src="https://streak-stats.demolab.com/?user=hardope&currStreakNum=000000&fire=orange&sideLabels=000date_format=[Y.]n.j)"-->
+![Gift56's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardope&count_private=true)
