@@ -28,7 +28,7 @@ Currently I'm developing a [Social Media Platform & Instant Messenger](https://h
 <img src="https://user-images.githubusercontent.com/76790341/187142409-fa9b3fc9-8e08-4870-b4d9-a630a3505339.png" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/hardope/hardope/assets/76790341/66b41f49-af77-496f-ae72-dbd8dcbfa880" height="50" style="vertical-align:top; margin:4px">
 </p>
-
+                                                                                                                                                    
 ---
 
 ### Contact Me: <br>
@@ -39,3 +39,4 @@ Phone: +234(0)9075963886
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hardope)](https://git.io/streak-stats)
 ![Gift56's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardope&count_private=true)
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hardope"/>
