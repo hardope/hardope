@@ -38,5 +38,4 @@ Phone: +234(0)9075963886
 ---
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hardope)](https://git.io/streak-stats)
-![Gift56's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardope&count_private=true)
 <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hardope"/>
