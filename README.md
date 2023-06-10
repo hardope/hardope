@@ -2,7 +2,7 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=+Software+Engineer;Full-Stack+Web+Developer!;Student)](https://git.io/typing-svg)
 My areas of interest are Web development, Software Engineering and Artificial Intelligence<br>
 
-Currently I'm developing a [Social Media Platform & Instant Messenger](https://hardope.pythonanywhere.com "Click Chat")<br>
+Currently I'm developing a [Social Media Platform & Instant Messenger](https://clickviral.pythonanywhere.com "ClickViral")<br>
 
 ---
 ### Tools & Languages
@@ -38,5 +38,5 @@ Phone: +234(0)9075963886
 ---
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hardope)](https://git.io/streak-stats)
-![Gift56's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardope&count_private=true)
+
 <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hardope"/>
