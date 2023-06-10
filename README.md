@@ -27,6 +27,7 @@ Currently I'm developing a [ClickViral](https://clickviral.pythonanywhere.com "C
 <img src="https://user-images.githubusercontent.com/76790341/187142293-2280c369-2a56-4dcd-8547-df421d9421fe.png" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/76790341/187142409-fa9b3fc9-8e08-4870-b4d9-a630a3505339.png" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/hardope/hardope/assets/76790341/66b41f49-af77-496f-ae72-dbd8dcbfa880" height="50" style="vertical-align:top; margin:4px">
+<img src="https://github.com/hardope/hardope/assets/76790341/425bdf25-ee62-40f0-a5c9-2c917f1ee9d2" height="50" style="vertical-align:top; margin:4px">
 </p>
                                                                                                                                                     
 ---
@@ -38,5 +39,4 @@ Phone: +234(0)9075963886
 ---
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hardope)](https://git.io/streak-stats)
-
 <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hardope"/>
