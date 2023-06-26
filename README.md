@@ -2,7 +2,7 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=+Software+Engineer;Full-Stack+Web+Developer!;Student)](https://git.io/typing-svg)
 My areas of interest are Web development, DevOps, Software Engineering and Artificial Intelligence<br>
 
-Currently I'm developing a [ClickViral](https://clickviral.pythonanywhere.com "ClickViral"): a social media and instant messaging platform<br>
+Currently I'm developing [ClickViral](https://clickviral.pythonanywhere.com "ClickViral"): a social media and instant messaging platform<br>
 
 ---
 ### Tools & Languages
