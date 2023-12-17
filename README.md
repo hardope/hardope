@@ -5,7 +5,7 @@ My areas of interest are Web development, DevOps, Software Engineering and Artif
 Currently I'm developing [ClickViral](https://clickviral.pythonanywhere.com "ClickViral"): a social media and instant messaging platform<br>
 
 ---
-### Tools & Languages
+### My Stack
 
 <p align="center">
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"  height="40" style="vertical-align:top; margin:4px">
