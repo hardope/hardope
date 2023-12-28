@@ -33,8 +33,8 @@ Currently I'm developing [ClickViral](https://clickviral.pythonanywhere.com "Cli
 ---
 
 ### Contact Me: <br>
-E-mail: adeyeriopeoluwa05@gmail.com<br>
-Phone: +234(0)9075963886
+**E-mail** adeyeriopeoluwa05@gmail.com<br>
+**Phone** +234(0)9075963886
 
 ---
 
