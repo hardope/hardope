@@ -35,7 +35,6 @@ Currently I'm developing [ClickViral](https://clickviral.pythonanywhere.com "Cli
 ### Contact Me: <br>
 **E-mail** adeyeriopeoluwa05@gmail.com<br>
 **Phone** +234(0)9075963886
-
 ---
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hardope)](https://git.io/streak-stats)
