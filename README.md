@@ -23,12 +23,12 @@ Currently I'm developing [ClickViral](https://clickviral.pythonanywhere.com "Cli
 <img src="https://github.com/hardope/hardope/assets/76790341/6b3a8d51-5374-4adf-ac87-2f8dd704ce64" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/76790341/187142840-1acfcea2-a215-4f56-b11e-216fc8aa885b.png" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/hardope/hardope/assets/76790341/bdd1c63a-98bd-45fa-b82e-0f8c44485066" height="40" style="vertical-align:top; margin:4px">
-<img src="https://user-images.githubusercontent.com/76790341/187141391-bfad1a42-3cc2-4edd-903b-6d362ee63fc2.png" height="40" style="vertical-align:top; margin:4px">
-<img src="https://user-images.githubusercontent.com/76790341/187142293-2280c369-2a56-4dcd-8547-df421d9421fe.png" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/76790341/187142409-fa9b3fc9-8e08-4870-b4d9-a630a3505339.png" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/user-attachments/assets/9159604a-0d14-4847-ae25-8a5f4eeea57a" height="50" style="vertical-align:top; margin:4px">
 <img src="https://github.com/hardope/hardope/assets/76790341/3ca83c9d-439c-4d8b-b77c-5f6375ccee43" height="50" style="vertical-align:top; margin:4px">
-<img src="https://github.com/hardope/hardope/assets/76790341/66b41f49-af77-496f-ae72-dbd8dcbfa880" height="50" style="vertical-align:top; margin:4px">
-<img src="https://github.com/hardope/hardope/assets/76790341/425bdf25-ee62-40f0-a5c9-2c917f1ee9d2" height="50" style="vertical-align:top; margin:4px">
+<img src="https://github.com/user-attachments/assets/0866866f-9ef7-4f7f-80e2-8cc057652d7e" height="50" style="vertical-align:top; margin:4px">
+<img src="https://github.com/user-attachments/assets/c1135896-8cad-482e-b37b-4ee412674013" height="50" style="vertical-align:top; margin:4px">
+<img src="https://github.com/user-attachments/assets/021dd650-cc28-466d-964b-3f5e46a95261" height="50" style="vertical-align:top; margin:4px">
 
 </p>
 
