@@ -49,10 +49,7 @@ I love experimenting with new technologies and continuously pushing the boundari
 ## GitHub Stats
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
+ <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hardope" alt="GitHub Streak Stats"/>
   </a>
-  <br/>
-  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hardope" alt="Repos per Language"/>
-  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hardope&theme=github" alt="GitHub Stats"/>
 </div>
