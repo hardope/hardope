@@ -1,7 +1,5 @@
 # Opeoluwa Adeyeri
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=+Software+Engineer;Full-Stack+Web+Developer!;Student;YouTuber)](https://git.io/typing-svg)
-
 Hi there! I'm **Opeoluwa Adeyeri**, a passionate Software Engineer and Full-Stack Web Developer dedicated to creating innovative digital experiences. I thrive on transforming complex challenges into elegant, efficient solutions. From REST APIs to WebSockets, User Interfaces, and CI/CD pipelines, I am always learning, evolving, and experimenting with new technology to sharpen my skills.
 
 Currently, I'm working on a few projects including [Sphere](https://sphere.click-viral.tech "Sphere") and [ILearn](https://ilearn.growthproafrica.com)
