@@ -2,7 +2,7 @@
 
 Hi there! I'm **Opeoluwa Adeyeri**, a passionate Software Engineer and Full-Stack Web Developer dedicated to creating innovative digital experiences. I thrive on transforming complex challenges into elegant, efficient solutions. From REST APIs to WebSockets, User Interfaces, and CI/CD pipelines, I am always learning, evolving, and experimenting with new technology to sharpen my skills.
 
-Currently, I'm working on a few projects including [Sphere](https://sphere.click-viral.tech "Sphere") and [ILearn](https://ilearn.growthproafrica.com)
+Currently, I'm working on a few projects including [ILearn](https://ilearn.growthproafrica.com)
 
 ---
 
