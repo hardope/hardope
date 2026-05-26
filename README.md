@@ -1,14 +1,14 @@
 # Opeoluwa Adeyeri
 
-Hi there! I'm **Opeoluwa Adeyeri**, a passionate Software Engineer and Full-Stack Web Developer dedicated to creating innovative digital experiences. I thrive on transforming complex challenges into elegant, efficient solutions. From REST APIs to WebSockets, User Interfaces, and CI/CD pipelines, I am always learning, evolving, and experimenting with new technology to sharpen my skills.
+Hi there! I'm **Opeoluwa Adeyeri**, a passionate Software Engineer and Full-Stack Web Developer dedicated to creating innovative digital experiences. I thrive on transforming complex challenges into elegant, efficient solutions.
 
-Currently, I'm working on a few projects including [ILearn](https://ilearn.growthproafrica.com)
+Currently, I'm working on a few projects including [Vendli](https://www.vendli.ng)
 
 ---
 
 ## About Me
 
-I love experimenting with new technologies and continuously pushing the boundaries of what code can achieve. When I'm not coding, you'll likely find me diving into tech tutorials, exploring the latest industry trends, or sharing my journey on YouTube. Collaboration, creativity, and a constant hunger for knowledge drive my everyday work.
+I love experimenting with new technologies and continuously pushing the boundaries of what software can achieve. I take a lot of interest in system design and architecture and I often explore the engineering architecture that goes behind popular software systems. When I'm not coding, you'll likely find me diving into tech tutorials, exploring the latest industry trends, or sharing my journey on YouTube. Collaboration, creativity, and a constant hunger for knowledge drive my everyday work.
 
 ---
 
@@ -16,6 +16,8 @@ I love experimenting with new technologies and continuously pushing the boundari
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40" style="vertical-align:top; margin:4px">
+  <img height="40" alt="image" src="https://github.com/user-attachments/assets/ad7d4929-3d8b-4ead-85a4-e04f84abe82c" />
+
   <a href="https://github.com/hardope" target="_blank" rel="noreferrer">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuZ3SKA8cR3JS27Y_ijrqVSHjoDKjM_bhK7Q&usqp=CAU" alt="GitHub" height="40" style="vertical-align:top; margin:4px">
   </a>
