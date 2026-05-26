@@ -4,13 +4,9 @@ Hi there! I'm **Opeoluwa Adeyeri**, a passionate Software Engineer and Full-Stac
 
 Currently, I'm working on a few projects including [Vendli](https://www.vendli.ng)
 
----
-
 ## About Me
 
 I love experimenting with new technologies and continuously pushing the boundaries of what software can achieve. I take a lot of interest in system design and architecture and I often explore the engineering architecture that goes behind popular software systems. When I'm not coding, you'll likely find me diving into tech tutorials, exploring the latest industry trends, or sharing my journey on YouTube. Collaboration, creativity, and a constant hunger for knowledge drive my everyday work.
-
----
 
 ## My Tech Stack
 
@@ -43,8 +39,6 @@ I love experimenting with new technologies and continuously pushing the boundari
   <img src="https://github.com/user-attachments/assets/313e485f-6c93-4580-a336-b1cc653bdeae" alt="Icon" height="50" style="vertical-align:top; margin:4px">
 
 </p>
-
----
 
 ## GitHub Stats
 
