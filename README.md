@@ -44,6 +44,6 @@ I love experimenting with new technologies and continuously pushing the boundari
 
 <div align="center">
  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hardope" alt="GitHub Streak Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hardope&theme=dark" alt="GitHub Streak Stats"/>
   </a>
 </div>
