@@ -37,6 +37,10 @@ I love experimenting with new technologies and continuously pushing the boundari
   <img src="https://github.com/user-attachments/assets/c1135896-8cad-482e-b37b-4ee412674013" alt="Icon" height="50" style="vertical-align:top; margin:4px">
   <img src="https://github.com/user-attachments/assets/021dd650-cc28-466d-964b-3f5e46a95261" alt="Icon" height="50" style="vertical-align:top; margin:4px">
   <img src="https://github.com/user-attachments/assets/313e485f-6c93-4580-a336-b1cc653bdeae" alt="Icon" height="50" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/user-attachments/assets/8a01b583-af77-4267-a861-9e248bb0d534" alt="Icon" height="50" style="vertical-align:top; margin:4px"/>
+<img src="https://github.com/user-attachments/assets/ee506e90-bc1f-4ad6-bd14-64bc9f09ba47" alt="Icon" height="50" style="vertical-align:top; margin:4px" />
+<img src="https://github.com/user-attachments/assets/f019b65d-9274-4ce1-bb94-53605ac60b21" alt="Icon" height="50" style="vertical-align:top; margin:4px"/>
+
 
 </p>
 
@@ -44,6 +48,6 @@ I love experimenting with new technologies and continuously pushing the boundari
 
 <div align="center">
  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hardope&theme=dark" alt="GitHub Streak Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hardope&theme=dark&" alt="GitHub Streak Stats"/>
   </a>
 </div>
