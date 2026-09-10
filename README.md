@@ -2,7 +2,7 @@
 
 Hi there! I'm **Opeoluwa Adeyeri**, a passionate Software Engineer and Full-Stack Web Developer dedicated to creating innovative digital experiences. I thrive on transforming complex challenges into elegant, efficient solutions.
 
-Currently, I'm working on a few projects including [Vendli](https://www.vendli.ng)
+Currently, I'm working on a few projects including [Continuity](https://github.com/hardope/continuity) - An open source cross-platform tool that shares your clipboard across devices, allows media, remote control and file sharing seamlessly.
 
 ## About Me
 
